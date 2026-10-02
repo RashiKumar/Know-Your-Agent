@@ -4,6 +4,8 @@
 
 [Open RazorCart](https://razorcart.vercel.app) · [Open Sentinel](https://sentinel-sentinel-a860.vercel.app)
 
+**Project owner and maintainer:** [Rashi Kumar](https://github.com/RashiKumar)
+
 ![RazorCart — a considered way to buy](./razorcart/public/og.jpg)
 
 RazorCart and Sentinel are two independent applications built for the Razorpay AI Buildathon. RazorCart helps a shopper discover and choose products. Sentinel decides whether the selected buying agent is actually allowed to make the purchase.
@@ -205,8 +207,8 @@ The applications use separate `razorcart` and `sentinel` PostgreSQL schemas. Sen
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/AdityaJswl/Sentinel.git
-cd Sentinel
+git clone https://github.com/RashiKumar/Know-Your-Agent.git
+cd Know-Your-Agent
 ```
 
 ### 2. Collect the Supabase settings
